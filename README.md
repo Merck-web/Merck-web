@@ -1,5 +1,4 @@
 # Welcome to my GitHub profile ✌️✌️✌️
-**This is me 1 hour before deploing the project**
 
 ![](https://github.com/Merck-web/Merck-web/blob/main/1.gif)
 ## Some info about me 😄
