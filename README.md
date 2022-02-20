@@ -26,6 +26,10 @@
    
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Merck-web&theme=blue-green&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Merck-web&theme=blue-green&hide=javascript,html,css,scss,typescript,react,next)](https://github.com/anuraghazra/github-readme-stats)
+   
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Merck-web&theme=blue-green&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+   
+   
  ## Something interesting 👽
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Merck-web&repo=app-landing&theme=blue-green)](https://github.com/Merck-web/app-landing)&nbsp;&nbsp;&nbsp; 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Merck-web&repo=My-site&theme=blue-green)](https://github.com/Merck-web/My-site)
