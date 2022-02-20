@@ -24,8 +24,8 @@
 ## My GitHub stats 📊
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Merck-web&show_icons=true&theme=blue-green)
    
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Merck-web&theme=blue-green&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Merck-web&theme=blue-green&hide=javascript,html,css,scss,typescript,react,next)](https://github.com/anuraghazra/github-readme-stats)
+<!--    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Merck-web&theme=blue-green&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Merck-web&theme=blue-green&hide=javascript,html,css,scss,typescript,react,next)](https://github.com/anuraghazra/github-readme-stats) -->
    
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Merck-web&theme=blue-green&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
    
